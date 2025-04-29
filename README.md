@@ -7,7 +7,7 @@
   </picture>
 </p>
 
-**An Advanced Web Panel • Built on Xray Core**
+**Un panneau Web avancé • Construit sur Xray Core**
 
 [![](https://img.shields.io/github/v/release/mhsanaei/3x-ui.svg)](https://github.com/MHSanaei/3x-ui/releases)
 [![](https://img.shields.io/github/actions/workflow/status/mhsanaei/3x-ui/release.yml.svg)](#)
@@ -15,9 +15,9 @@
 [![Downloads](https://img.shields.io/github/downloads/mhsanaei/3x-ui/total.svg)](#)
 [![License](https://img.shields.io/badge/license-GPL%20V3-blue.svg?longCache=true)](https://www.gnu.org/licenses/gpl-3.0.en.html)
 
-> **Disclaimer:** This project is only for personal learning and communication, please do not use it for illegal purposes, please do not use it in a production environment
+> **Avertissement :** Ce projet est uniquement destiné à l'apprentissage personnel et à la communication, veuillez ne pas l'utiliser à des fins illégales, veuillez ne pas l'utiliser dans un environnement de production
 
-**If this project is helpful to you, you may wish to give it a**:star2:
+**Si ce projet vous est utile, vous souhaiterez peut-être lui donner un**:star2:
 
 <p align="left">
   <a href="https://buymeacoffee.com/mhsanaei" target="_blank">
